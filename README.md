@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0018-4sum) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
+| [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 ## String
 |  |
 | ------- |
@@ -31,10 +32,16 @@
 | [0015-3sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0018-4sum) |
+| [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0018-4sum) |
+| [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
+## Binary Search
+|  |
+| ------- |
+| [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 <!---LeetCode Topics End-->
