@@ -10,10 +10,12 @@
 | [0018-4sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0018-4sum) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
+| [0481-magical-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0481-magical-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0481-magical-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0481-magical-string) |
 ## Dynamic Programming
 |  |
 | ------- |
