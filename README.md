@@ -15,6 +15,7 @@
 | [0031-next-permutation](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
@@ -50,6 +51,7 @@
 | [0027-remove-element](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 ## Sorting
 |  |
@@ -57,6 +59,7 @@
 | [0015-3sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 ## Binary Search
 |  |
