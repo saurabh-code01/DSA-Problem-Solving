@@ -19,6 +19,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
 ## Math
 |  |
@@ -77,6 +79,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 ## String Matching
 |  |
 | ------- |
