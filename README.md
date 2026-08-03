@@ -23,6 +23,7 @@
 | [0143-reorder-list](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0481-magical-string) |
@@ -63,6 +64,7 @@
 | [0042-trapping-rain-water](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 ## Linked List
 |  |
@@ -101,4 +104,16 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0143-reorder-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
