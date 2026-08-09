@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
@@ -66,6 +67,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
