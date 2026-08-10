@@ -71,6 +71,7 @@
 | [0042-trapping-rain-water](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 ## Sorting
@@ -84,6 +85,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 ## Linked List
