@@ -57,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
 ## Array
 |  |
@@ -87,6 +88,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
