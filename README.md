@@ -34,6 +34,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0072-edit-distance](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0647-palindromic-substrings) |
 ## Hash Table
