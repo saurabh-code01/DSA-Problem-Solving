@@ -36,6 +36,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0481-magical-string) |
@@ -58,6 +59,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
@@ -185,4 +187,12 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
