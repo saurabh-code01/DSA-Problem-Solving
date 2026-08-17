@@ -60,6 +60,7 @@
 | [0036-valid-sudoku](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
@@ -87,6 +88,7 @@
 | [0119-pascals-triangle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0274-h-index) |
@@ -195,4 +197,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0127-word-ladder) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
