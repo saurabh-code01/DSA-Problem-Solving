@@ -54,6 +54,7 @@
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0647-palindromic-substrings) |
+| [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0141-linked-list-cycle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
+| [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0275-h-index-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
+| [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +119,7 @@
 | [0275-h-index-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
+| [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 ## Linked List
 |  |
 | ------- |
