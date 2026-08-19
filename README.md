@@ -61,6 +61,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
@@ -88,6 +89,7 @@
 | [0075-sort-colors](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0120-triangle) |
@@ -187,6 +189,7 @@
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
@@ -195,6 +198,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
@@ -212,4 +216,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
