@@ -93,6 +93,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0120-triangle) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
@@ -225,6 +228,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
@@ -233,4 +237,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0139-word-break) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
