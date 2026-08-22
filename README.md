@@ -48,6 +48,7 @@
 | [0005-longest-palindromic-substring](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0120-triangle) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
 ## Array
@@ -196,6 +198,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -212,6 +215,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -253,6 +257,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
