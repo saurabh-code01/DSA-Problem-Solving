@@ -210,6 +210,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -234,6 +235,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
@@ -278,6 +280,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
