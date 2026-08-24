@@ -33,6 +33,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
