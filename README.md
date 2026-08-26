@@ -214,6 +214,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
@@ -227,6 +228,7 @@
 | [0099-recover-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -242,6 +244,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
@@ -289,6 +292,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
