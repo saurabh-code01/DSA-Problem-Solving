@@ -220,6 +220,7 @@
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
@@ -231,6 +232,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -250,6 +252,7 @@
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
@@ -298,5 +301,6 @@
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
