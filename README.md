@@ -230,6 +230,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -279,6 +280,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -341,6 +343,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -354,6 +357,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -366,4 +370,12 @@
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
