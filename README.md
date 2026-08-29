@@ -156,6 +156,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0143-reorder-list) |
+| [0173-binary-search-tree-iterator](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0897-increasing-order-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -218,6 +219,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -264,6 +266,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -324,6 +327,7 @@
 | [0099-recover-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -343,9 +347,14 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 ## Greedy
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
