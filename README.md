@@ -80,6 +80,7 @@
 | [0219-contains-duplicate-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 ## Math
@@ -120,6 +121,7 @@
 | [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
@@ -134,6 +136,7 @@
 | [0274-h-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search
