@@ -64,6 +64,7 @@
 | [0647-palindromic-substrings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0096-unique-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -254,6 +257,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -305,6 +309,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -321,11 +326,13 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -334,6 +341,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Trie
 |  |
 | ------- |
@@ -370,6 +378,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Design
 |  |
@@ -406,4 +415,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
