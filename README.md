@@ -43,6 +43,7 @@
 | [0127-word-ladder](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
+| [0299-bulls-and-cows](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
@@ -83,6 +84,7 @@
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
@@ -239,6 +241,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0274-h-index) |
+| [0299-bulls-and-cows](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
