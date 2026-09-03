@@ -84,6 +84,7 @@
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +101,7 @@
 | [0069-sqrtx](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
@@ -129,6 +131,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
@@ -150,6 +153,7 @@
 | [0018-4sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -166,6 +170,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -207,6 +212,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
 ## Pigeonhole Principle
