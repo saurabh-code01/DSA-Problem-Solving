@@ -47,6 +47,7 @@
 | [0299-bulls-and-cows](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0481-magical-string) |
@@ -92,6 +93,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0398-random-pick-index) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
@@ -236,6 +238,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Matrix
 |  |
 | ------- |
