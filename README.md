@@ -45,6 +45,7 @@
 | [0127-word-ladder](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
+| [0290-word-pattern](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
@@ -89,6 +90,7 @@
 | [0219-contains-duplicate-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
