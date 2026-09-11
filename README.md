@@ -50,6 +50,7 @@
 | [0383-ransom-note](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
@@ -98,6 +99,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -245,6 +247,7 @@
 | [0076-minimum-window-substring](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Matrix
 |  |
@@ -386,6 +389,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Trie
