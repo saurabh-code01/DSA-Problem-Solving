@@ -47,6 +47,7 @@
 | [0165-compare-version-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0290-word-pattern](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -95,6 +96,7 @@
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -264,6 +266,7 @@
 | [0274-h-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
