@@ -39,6 +39,7 @@
 | [0005-longest-palindromic-substring](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0125-valid-palindrome) |
@@ -111,6 +112,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
@@ -229,6 +231,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
@@ -487,4 +490,8 @@
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0398-random-pick-index) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
