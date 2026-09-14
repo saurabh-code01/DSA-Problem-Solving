@@ -57,6 +57,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0481-magical-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -110,6 +111,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 ## Math
@@ -163,6 +165,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
