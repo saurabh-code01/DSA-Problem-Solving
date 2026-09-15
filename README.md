@@ -110,6 +110,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -126,6 +127,7 @@
 | [0398-random-pick-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0509-fibonacci-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
 |  |
@@ -165,6 +167,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
+| [0523-continuous-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -250,6 +253,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -272,6 +276,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 ## Newton's Method
 |  |
