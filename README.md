@@ -115,6 +115,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 ## Math
 |  |
@@ -171,6 +172,7 @@
 | [0525-contiguous-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -219,6 +221,7 @@
 | [0141-linked-list-cycle](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0143-reorder-list) |
+| [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
 ## String Matching
 |  |
 | ------- |
@@ -457,6 +460,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
 ## Greedy
 |  |
 | ------- |
@@ -512,4 +516,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0067-add-binary) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
