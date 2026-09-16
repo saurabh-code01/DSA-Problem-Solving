@@ -100,6 +100,7 @@
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -125,6 +126,7 @@
 | [0096-unique-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0509-fibonacci-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
@@ -164,6 +166,7 @@
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -458,6 +461,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
@@ -511,6 +515,7 @@
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0398-random-pick-index) |
 ## Simulation
 |  |
