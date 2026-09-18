@@ -30,6 +30,7 @@
 | [0457-circular-array-loop](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -59,6 +60,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0481-magical-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0648-replace-words) |
@@ -115,6 +117,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -179,6 +182,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -208,6 +212,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0475-heaters) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0645-set-mismatch) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
