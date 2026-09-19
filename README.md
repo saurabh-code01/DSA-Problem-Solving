@@ -128,6 +128,7 @@
 | [0648-replace-words](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
@@ -193,6 +194,7 @@
 | [0645-set-mismatch](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0648-replace-words) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -281,6 +283,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0523-continuous-subarray-sum) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
