@@ -64,6 +64,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0648-replace-words) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0645-set-mismatch) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +319,7 @@
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -489,6 +493,7 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Iterator
 |  |
 | ------- |
