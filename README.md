@@ -130,6 +130,7 @@
 | [0648-replace-words](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -146,6 +147,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0509-fibonacci-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0523-continuous-subarray-sum) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
 |  |
@@ -196,6 +198,7 @@
 | [0645-set-mismatch](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0648-replace-words) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
@@ -325,6 +328,7 @@
 | [0347-top-k-frequent-elements](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Backtracking
 |  |
@@ -556,4 +560,16 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
