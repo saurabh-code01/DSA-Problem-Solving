@@ -49,6 +49,7 @@
 | [0139-word-break](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0383-ransom-note) |
@@ -387,6 +388,7 @@
 | [0098-validate-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -470,6 +472,7 @@
 | ------- |
 | [0139-word-break](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0677-map-sum-pairs) |
@@ -512,6 +515,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0677-map-sum-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0677-map-sum-pairs) |
