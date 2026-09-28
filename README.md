@@ -135,6 +135,7 @@
 | [0648-replace-words](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0677-map-sum-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0677-map-sum-pairs) |
+| [0697-degree-of-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0819-most-common-word) |
@@ -207,6 +208,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0648-replace-words) |
+| [0697-degree-of-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0819-most-common-word) |
