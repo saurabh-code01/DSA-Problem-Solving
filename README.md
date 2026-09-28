@@ -136,6 +136,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0677-map-sum-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0819-most-common-word) |
 | [0911-online-election](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0911-online-election) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -207,6 +208,7 @@
 | [0645-set-mismatch](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0648-replace-words) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0819-most-common-word) |
 | [0911-online-election](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0911-online-election) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -266,6 +268,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0143-reorder-list) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0706-design-hashmap) |
 ## String Matching
 |  |
 | ------- |
@@ -521,6 +524,7 @@
 | [0677-map-sum-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0911-online-election](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0911-online-election) |
 | [1146-snapshot-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1146-snapshot-array) |
 ## Greedy
@@ -584,6 +588,7 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0706-design-hashmap) |
 ## Number Theory
 |  |
 | ------- |
