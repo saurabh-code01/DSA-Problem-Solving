@@ -69,6 +69,7 @@
 | [0648-replace-words](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0677-map-sum-pairs) |
 | [0819-most-common-word](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0859-buddy-strings) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -139,6 +140,7 @@
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0859-buddy-strings) |
 | [0911-online-election](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0911-online-election) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
