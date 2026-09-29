@@ -145,6 +145,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1146-snapshot-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1146-snapshot-array) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
@@ -219,6 +220,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1146-snapshot-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1146-snapshot-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -351,6 +353,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0819-most-common-word) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Backtracking
 |  |
