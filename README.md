@@ -87,6 +87,7 @@
 | [0392-is-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0647-palindromic-substrings) |
+| [0740-delete-and-earn](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0740-delete-and-earn) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -139,6 +140,7 @@
 | [0697-degree-of-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0706-design-hashmap) |
+| [0740-delete-and-earn](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0740-delete-and-earn) |
 | [0819-most-common-word](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0859-buddy-strings) |
 | [0911-online-election](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0911-online-election) |
@@ -214,6 +216,7 @@
 | [0697-degree-of-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0706-design-hashmap) |
+| [0740-delete-and-earn](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0740-delete-and-earn) |
 | [0819-most-common-word](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0819-most-common-word) |
 | [0911-online-election](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0911-online-election) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
