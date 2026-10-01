@@ -151,6 +151,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1146-snapshot-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1146-snapshot-array) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
 |  |
@@ -229,6 +230,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1146-snapshot-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1146-snapshot-array) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sorting
@@ -252,6 +254,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Binary Search
@@ -546,6 +549,7 @@
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Iterator
