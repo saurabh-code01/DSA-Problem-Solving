@@ -71,6 +71,7 @@
 | [0677-map-sum-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0677-map-sum-pairs) |
 | [0819-most-common-word](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0859-buddy-strings) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -156,6 +157,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
 |  |
@@ -377,6 +379,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1122-relative-sort-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Backtracking
 |  |
