@@ -149,6 +149,7 @@
 | [0859-buddy-strings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0859-buddy-strings) |
 | [0911-online-election](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0911-online-election) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0954-array-of-doubled-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0954-array-of-doubled-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1122-relative-sort-array) |
@@ -231,6 +232,7 @@
 | [0846-hand-of-straights](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0846-hand-of-straights) |
 | [0911-online-election](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0911-online-election) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0954-array-of-doubled-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0954-array-of-doubled-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
@@ -263,6 +265,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0846-hand-of-straights) |
+| [0954-array-of-doubled-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0954-array-of-doubled-pairs) |
 | [1122-relative-sort-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1122-relative-sort-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -564,6 +567,7 @@
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0846-hand-of-straights) |
+| [0954-array-of-doubled-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0954-array-of-doubled-pairs) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
