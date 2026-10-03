@@ -72,6 +72,7 @@
 | [0819-most-common-word](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0859-buddy-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1496-path-crossing](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1496-path-crossing) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -160,6 +161,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1496-path-crossing](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1496-path-crossing) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
 |  |
