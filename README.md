@@ -151,6 +151,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0954-array-of-doubled-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0954-array-of-doubled-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0997-find-the-town-judge) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -234,6 +235,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0954-array-of-doubled-pairs](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0954-array-of-doubled-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1122-relative-sort-array) |
@@ -652,4 +654,8 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/1122-relative-sort-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
