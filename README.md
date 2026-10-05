@@ -191,6 +191,7 @@
 | [0042-trapping-rain-water](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -332,6 +333,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0389-find-the-difference) |
@@ -392,6 +394,7 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/saurabh-code01/DSA-Problem-Solving/tree/master/0095-unique-binary-search-trees-ii) |
 ## Tree
 |  |
